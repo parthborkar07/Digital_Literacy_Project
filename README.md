@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dinesh%20Kumawat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Digital%20Literacy%20Ambassador%20%7C%20VIT%20Bhopal&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Parth%20Borkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Digital%20Literacy%20Ambassador%20%7C%20VIT%20Bhopal&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43B8C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Dinesh+Kumawat+%F0%9F%91%8B;First+Year+B.Tech+%40+VIT+Bhopal+%F0%9F%8F%AB;Curious+Learner+%7C+Tech+Explorer+%F0%9F%9A%80;Building+My+Digital+Footprint+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43B8C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Parth+Borkar+%F0%9F%91%8B;First+Year+B.Tech+%40+VIT+Bhopal+%F0%9F%8F%AB;Curious+Learner+%7C+Tech+Explorer+%F0%9F%9A%80;Building+My+Digital+Footprint+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Badges Row -->
-![Reg No](https://img.shields.io/badge/Reg%20No-25BCY10143-2c5364?style=for-the-badge&logo=academia&logoColor=white)
+![Reg No](https://img.shields.io/badge/Reg%20No-25BCY10061-2c5364?style=for-the-badge&logo=academia&logoColor=white)
 ![Branch](https://img.shields.io/badge/Branch-CSE-0077b6?style=for-the-badge&logo=code&logoColor=white)
 ![Year](https://img.shields.io/badge/Year-1st-43b8c9?style=for-the-badge&logo=calendar&logoColor=white)
 ![University](https://img.shields.io/badge/VIT-Bhopal-ff6b35?style=for-the-badge&logo=university&logoColor=white)
