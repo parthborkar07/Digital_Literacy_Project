@@ -19,35 +19,34 @@ The project is divided into 5 tasks, each aligned with course modules.**
   
 ## 📂 Repository Structure  
 digital-literacy-project/  
-│── README.md  
-│  
-├── report/  
-│   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   └── infographic_ss
+│   └── Infographic_ss.png
 |  
 | 
 ├── task-2-portfolio/  
-│   ├── GitHub_ss
-│   ├── LinkedIn_ss 
-│   └── researchgate_ss
-|   └── reflection_notes.md
+│   ├── GitHub_ss.png
+│   ├── Kaggle_ss.png
+│   └── Linkedin_ss.png
+|
 │  
 ├── task-3-platforms/  
-│   ├── Google form and Responses Link.md  
-│   ├── google-form.png  
-│   └── Hackerranker_ss
-|   └── notes.md
+│   ├── Digital_Literacy_Quiz.png  
+│   ├── Google Response Spreadsheet_ss.png  
+│   └── HackerRank_ss.png
+|   └── google_form_link
+|
 │  
 ├── task-4-email-etiquette/  
-│   ├── email1.pdf  
-│   ├── email2.pdf  
+│   ├── VIT Bhopal University Mail - Application for Summer Internship Opportunity.pdf  
+│   ├── VIT Bhopal University Mail - Request for Extension_ Assignment Submission Deadline.pdf 
 │   └── social-media-checklist.md  
 │  
 ├── task-5-cybercrime/  
-│   ├── casestudy.md  
-│   └── prevention-checklist.md  
+│   ├── case_study.md  
+│   └── prevention-checklist.md 
+|
+|── README.md
   
 ##🧩 Task Summary  
   
@@ -64,7 +63,7 @@ Created/updated profiles on:
 
 GitHub  
 LinkedIn  
-researchgate 
+Kaggle 
 ✔ Added screenshots of all profiles  
 ✔ Built a professional digital presence  
 
@@ -72,15 +71,14 @@ researchgate
 Part A – Coding Platform  
 
 Completed a beginner challenge on:  
-HackerRank / CodeChef / HackerEarth  
+HackerRank 
 Part B – Google Workspace  
 
 Created a Digital Literacy Quiz (Google Form)  
 Included:   
 Multiple choice questions  
 Short answer question  
-🔗 Google Form Link: https://docs.google.com/forms/d/1Dn1aUdFYA73rCFMBlpVQMlVCP92K-7b1IEy_br1-5Fo/edit
-
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeu-HREjXIhCb6efv6eZBSFh1mJx5jKom8CB21dwuzFK1RnxQ/viewform?usp=header
 **🟢 Task 4: Email Etiquette**  
 Wrote two professional emails:  
 
@@ -93,7 +91,7 @@ Created:
 **🟢 Task 5: Cybercrime Awareness**  
 
 Created a case study on:  
-Phishing / UPI Fraud / etc.  
+UPI Fraud  
 
 Added:  
 ✅ Prevention checklist   
