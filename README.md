@@ -54,6 +54,7 @@ role       : Student | Digital Literacy Ambassador
 ### 📁 Repository Structure
 
 ```
+
 digital-literacy-project/  
 │  
 ├── task-1-presentation/  
@@ -80,6 +81,7 @@ digital-literacy-project/
 │   └── prevention-checklist.md 
 |
 |──README.md
+
 ---
 
 ### 🎨 Task 1 – Digital Literacy Infographic
