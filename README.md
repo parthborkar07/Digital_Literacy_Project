@@ -39,7 +39,7 @@ role       : Student | Digital Literacy Ambassador
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Borkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parth-borkar-0687a3397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Borkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-borkar-0687a3397/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-ParthBorkar07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthborkar07)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ParthBorkar007-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/parthborkar007)
 [![VIT Bhopal](https://img.shields.io/badge/University-VIT%20Bhopal-ff6b35?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vitbhopal.ac.in)
