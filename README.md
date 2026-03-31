@@ -56,7 +56,9 @@ role       : Student | Digital Literacy Ambassador
 
 ```
 digital-literacy-project/  
-│  
+│
+├── Project_report
+|
 ├── task-1-presentation/  
 │   └── Infographic_ss.png
 |  
