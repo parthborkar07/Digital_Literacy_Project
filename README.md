@@ -46,7 +46,7 @@ digital-literacy-project/
 │   ├── case_study.md  
 │   └── prevention-checklist.md 
 |
-|── README.md
+|──README.md
   
 ##🧩 Task Summary  
   
